@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.6905565
+color:
+  saturation: 0.375583
+  lightness: 0.4852569
+  brandStrength: 1
+  brandColors:
+    - '#292531'
+    - '#FFFFFF'
+    - '#E8BEA3'
+    - '#889177'
+    - '#66636D'
+  rhythmicContrast: 0.6283695
+name: ckstudio
